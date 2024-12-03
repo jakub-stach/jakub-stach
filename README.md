@@ -1,5 +1,7 @@
 # Hi, I'm Jakub 🦧
-I'm a **Data Scientist and Business Strategist** with a unique blend of expertise in data analytics, business systems optimization, and philosophy. With over six years of experience, I specialize in transforming complex data into actionable insights to drive strategic decision-making and enhance operational efficiency.
+I'm a **Data Scientist and Business Strategist** with a unique blend of expertise in data analytics, business systems optimization, and designm informed by a background in philosophy. 
+
+With over six years of experience, I specialize in transforming complex data into actionable insights to drive strategic decision-making and enhance operational efficiency.
 
 ## 🔭 Currently Working On
 
