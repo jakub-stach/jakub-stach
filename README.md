@@ -27,23 +27,23 @@ With over six years of experience, I specialize in transforming complex data int
 ## 💬 Ask Me About
 
 - Bridging data insights with business strategy.
-- Applying philosophical perspectives to data science and ethics.
+- Applying philosophical perspectives to data science and system design.
 - Effective data storytelling and visualization techniques.
 
 ## 📚 Education
 
-- **Master of Arts in Philosophy (MA)**  
-  *University of British Columbia*  
-  - Focused on core analytic philosophy, including metaphysics and logic, enhancing my analytical thinking and problem-solving skills.
-
-- **Master of Information (MI)**  
-  *University of Toronto*  
-  - Concentrations: Information Systems & Design, Knowledge Management & Information Management  
-  - Graduated with a 4.0 GPA, served as Class President, and was a **Research Assistant** working on *risk information seeking and early warning systems*. Also worked as a Teaching Assistant for Service Design.
-
 - **Data Science Certificate**  
   *University of Toronto Data Science Institute*  
   - Relevant coursework: Statistical Methods, Big Data Analytics, Experiment Design, Information Visualization.
+    
+- **Master of Information (MI)**  
+  *University of Toronto*  
+  - Concentrations: Information Systems & Design, Knowledge Management & Information Management  
+  - Graduated with a 4.0 GPA, served as Class President, and was a **Research Assistant** working on *risk information seeking and early warning systems*. Also worked as a **Teaching Assistant** for a Service Design course.
+
+- **Master of Arts in Philosophy (MA)**  
+  *University of British Columbia*  
+  - Focused on core analytic philosophy, including metaphysics and logic, enhancing my analytical thinking and problem-solving skills.
 
 ## ⚡ Fun Facts
 
