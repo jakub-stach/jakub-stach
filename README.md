@@ -1,4 +1,4 @@
-# Hi, I'm Jakub 👋
+# Hi, I'm Jakub 🦧
 I'm a **Data Scientist and Business Strategist** with a unique blend of expertise in data analytics, business systems optimization, and philosophy. With over six years of experience, I specialize in transforming complex data into actionable insights to drive strategic decision-making and enhance operational efficiency.
 
 ## 🔭 Currently Working On
@@ -47,7 +47,6 @@ I'm a **Data Scientist and Business Strategist** with a unique blend of expertis
 
 - 🏀 I'm an avid basketball player and enjoy weightlifting to stay active.
 - 🎓 Passionate about mentoring, I've participated in several mentorship programs to help others grow professionally.
-- 🤔 My background in core analytic philosophy sharpens my approach to problem-solving in data science.
 - 🩸 I've donated blood 30+ times.
 <!--
 **jakub-stach/jakub-stach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
